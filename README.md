@@ -27,10 +27,9 @@ The implementation needs python3.8.6 and following packages
 The Package can be cloned from the github as follows
 
 ```
-<<<<<<< HEAD
-=======
-git clone (https://github.com/nunofachada/finefibo.git)
->>>>>>> addition
+
+git clone (https://github.com/ghullamali/finefibo.git)
+
 cd finefibo-main
 pip install .
 
@@ -39,11 +38,11 @@ pip install .
 Installing for editing the package
 
 ```
-<<<<<<< HEAD
+
 
 =======
-git clone (https://github.com/nunofachada/finefibo.git)
->>>>>>> addition
+git clone (https://github.com/ghullamali/finefibo.git)
+
 cd finefibo-main
 pip install -e .
 ```
@@ -61,7 +60,7 @@ pip install -e .
 
 ## Documentation
 
-* [*finefibo* package documentation](https://github.com/nunofachada/finefibo/tree/main/finefibo/docs/fibo.html)
+* [*finefibo* package documentation](https://github.com/ghullamali/finefibo/tree/main/finefibo/docs/fibo.html)
 
 ## License
 

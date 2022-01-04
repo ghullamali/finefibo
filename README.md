@@ -40,7 +40,6 @@ Installing for editing the package
 ```
 
 
-=======
 git clone (https://github.com/ghullamali/finefibo.git)
 
 cd finefibo-main

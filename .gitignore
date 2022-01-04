@@ -10,7 +10,7 @@ __pycache__/
 .vscode/
 
 # Docs
-docs/
+# docs/
 
 # Distribution / packaging
 .Python
